@@ -100,17 +100,13 @@ streamlit run app/app.py
 ## 📸 Screenshots
 
 ### Dashboard
-
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.jpeg)
 
 ### Charts
-
-![Charts](images/charts.png)
+![Charts](images/charts.jpeg)
 
 ### Prediction
-
-![Prediction](images/prediction.png)
-
+![Prediction](images/prediction.jpeg)
 ---
 
 ## 🚀 Future Improvements
